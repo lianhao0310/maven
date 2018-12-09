@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Dec 09 22:38:38 CST 2018
+@default-haoch-maven-release-repository-https\://raw.github.com/lianhao0310/maven/release/.lastUpdated=1544366316145
+https\://raw.github.com/lianhao0310/maven/release/.error=Could not transfer artifact com.alice.emily\:emily-parent\:pom\:2.0.0 from/to haoch-maven-release-repository (https\://raw.github.com/lianhao0310/maven/release/)\: Connection reset
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://raw.github.com/lianhao0310/maven/snapshot/.lastUpdated=1544366318698
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1544366317295
