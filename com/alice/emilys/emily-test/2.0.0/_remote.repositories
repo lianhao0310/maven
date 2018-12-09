@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Dec 09 22:30:40 CST 2018
+#Sun Dec 09 22:46:49 CST 2018
 emily-test-2.0.0.pom>=
+emily-test-2.0.0.pom>haoch-maven-snapshot-repository=
 emily-test-2.0.0.jar>=
+emily-test-2.0.0.jar>haoch-maven-snapshot-repository=

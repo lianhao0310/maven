@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Dec 09 22:45:29 CST 2018
+#Sun Dec 09 23:35:19 CST 2018
 emily-assets-2.0.0.jar>=
+emily-assets-2.0.0.jar>haoch-maven-snapshot-repository=
 emily-assets-2.0.0.pom>=
+emily-assets-2.0.0.pom>haoch-maven-snapshot-repository=
