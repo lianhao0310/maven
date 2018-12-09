@@ -1,4 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+<<<<<<< HEAD
 #Sun Dec 09 15:19:26 CST 2018
+=======
+#Sun Dec 09 22:19:16 CST 2018
+>>>>>>> release
 emily-starter-monitor-2.0.0.pom>=
 emily-starter-monitor-2.0.0.jar>=
