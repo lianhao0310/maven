@@ -39,19 +39,6 @@
             <id>spring-milestones</id>
             <url>https://repo.spring.io/milestone</url>
         </repository>
-<<<<<<< HEAD
-=======
-        <repository>
-            <id>haoch-maven-snapshot-repository</id>
-            <name>haoch-maven-snapshot-repository</name>
-            <url>https://raw.github.com/lianhao0310/maven/snapshot/</url>
-        </repository>
-        <repository>
-            <id>haoch-maven-release-repository</id>
-            <name>haoch-maven-release-repository</name>
-            <url>https://raw.github.com/lianhao0310/maven/release/</url>
-        </repository>
->>>>>>> release
     </repositories>
 
     <pluginRepositories>

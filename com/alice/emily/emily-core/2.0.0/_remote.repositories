@@ -1,8 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-<<<<<<< HEAD
-#Sun Dec 09 15:19:04 CST 2018
-=======
-#Sun Dec 09 22:18:47 CST 2018
->>>>>>> release
+#Sun Dec 09 22:30:06 CST 2018
 emily-core-2.0.0.pom>=
 emily-core-2.0.0.jar>=
